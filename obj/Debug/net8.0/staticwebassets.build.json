@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "K9ZDyEDgGsy6MmusVkIs0uJS0Yb1N/4imxzqjmbYwMQ=",
+  "Source": "MovieStore",
+  "BasePath": "_content/MovieStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
